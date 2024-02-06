@@ -1,25 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
-<<<<<<< HEAD
-let g:netrw_dirhist_2='/home/jupiter'
-let g:netrw_dirhist_1='/home/jupiter/pan'
-let g:netrw_dirhist_0='/home/jupiter/pan/ubuntu'
-let g:netrw_dirhist_9='/home/jupiter/pan'
-let g:netrw_dirhist_8='/home/jupiter/dotfiles/.vim'
-let g:netrw_dirhist_7='/home/jupiter/dotfiles/.vim/pack/panarcadia/start/commentary'
-let g:netrw_dirhist_6='/home/jupiter/dotfiles/.vim/pack/panarcadia/start'
-let g:netrw_dirhist_5='/home/jupiter/dotfiles/.vim/pack/panarcadia'
-let g:netrw_dirhist_4='/home/jupiter/dotfiles/.vim/pack'
-let g:netrw_dirhist_3='/home/jupiter/dotfiles/.vim'
-=======
-let g:netrw_dirhist_2='/home/pan/dotfiles/.vim/pack/panarcadia/start/vim-live-server'
-let g:netrw_dirhist_1='/home/pan/dotfiles/.vim/pack/panarcadia/start'
-let g:netrw_dirhist_0='/home/pan/dotfiles/.vim/pack/panarcadia'
-let g:netrw_dirhist_9='/home/pan/dotfiles/.vim/pack'
-let g:netrw_dirhist_8='/home/pan/dotfiles/.vim'
-let g:netrw_dirhist_7='/home/pan/.vim/pack/panarcadia/start'
-let g:netrw_dirhist_6='/home/pan/.vim/pack/panarcadia'
-let g:netrw_dirhist_5='/home/pan/.vim/pack'
-let g:netrw_dirhist_4='/home/pan/.vim'
-let g:netrw_dirhist_3='/home/pan'
->>>>>>> d2c2ac3a10a14608ee8e7993651372da307b9401
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/jupiter/pan/vim'
+let g:netrw_dirhist_0='/home/jupiter/pan'
+let g:netrw_dirhist_9='/home/jupiter/pan/temp'
+let g:netrw_dirhist_8='/home/jupiter/pan/temp/dotfiles'
+let g:netrw_dirhist_7='/home/jupiter/pan/temp/dotfiles/.vim'
+let g:netrw_dirhist_6='/home/jupiter/pan/temp/dotfiles/.vim/pack'
+let g:netrw_dirhist_5='/home/jupiter/pan/temp/dotfiles/.vim/pack/panarcadia'
+let g:netrw_dirhist_4='/home/jupiter/pan/temp/dotfiles/.vim/pack/panarcadia/start'
+let g:netrw_dirhist_3='/home/jupiter/pan/temp/dotfiles/.vim/pack/panarcadia/start/commentary'
+let g:netrw_dirhist_2='/home/jupiter/pan/temp/dotfiles/.vim/pack/panarcadia/start'
